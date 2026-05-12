@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a2f3a7-25c8-40a7-9952-8dc94a477322" name="Changes" comment="Initial commit">
+    <list default="true" id="87a2f3a7-25c8-40a7-9952-8dc94a477322" name="Changes" comment="Initial commit&#10;Обновил README">
+      <change afterPath="$PROJECT_DIR$/fguyhguh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +67,20 @@
       <option name="project" value="LOCAL" />
       <updated>1778571459134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit&#10;Обновил README">
+      <option name="closed" value="true" />
+      <created>1778572058003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778572058003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Initial commit&#10;Обновил README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;Обновил README" />
   </component>
 </project>
